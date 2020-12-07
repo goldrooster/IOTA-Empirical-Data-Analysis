@@ -22,7 +22,7 @@ Use the `networkx` re-construct the tangle based on the branch links and trunk l
 
 # Tangle Simulation 
 The simulation refers https://github.com/minh-nghia/TangleSimulator.
-This tool can simulate tangles with various alpha and lambda with different Tip Selection Alogrithms, such as MSMS or URTS.
+This tool can simulate tangles with various alpha and lambda with different Tip Selection Alogrithms, such as MCMC or URTS.
 
 # Data Analysis
 We have analysed the topology and performance features of the simulated tangle and real tangle. 
