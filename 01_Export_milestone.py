@@ -2,6 +2,8 @@ import iota
 import iotapy
 import json
 
+## Configuration refer https://github.com/mlouielu/iota-python
+
 # For example, export milestone from MS13 raw dataset.
 name = "MS13"
 
